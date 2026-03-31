@@ -815,7 +815,7 @@ function EntranceHall() {
         </blockquote>
         <p>
           Follow the arrow path through seven stations, each dedicated to a
-          different facet of Opioid Use Disorder (OUD).
+          different facet of Opioid Use Disorder (OUD). There are many interactive elements for you, and you may also click images to enlarge them.
         </p>
       </div>
 
