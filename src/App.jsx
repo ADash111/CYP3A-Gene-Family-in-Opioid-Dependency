@@ -1373,7 +1373,7 @@ function BiochemistryStation() {
           src="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=5284603&t=l"
           alt="Chemical structure of oxycodone"
           caption="Chemical Structure of Oxycodone"
-          citation="(PubChem, 2019b). https://commons.wikimedia.org/wiki/File:Oxycodone_structure.svg"
+          citation="(PubChem, 2019b)"
           fallback="Oxycodone — C₁₈H₂₁NO₄ — metabolized by both CYP3A4 and CYP3A5"
         />
         <div>
