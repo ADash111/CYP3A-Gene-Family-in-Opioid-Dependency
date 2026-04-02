@@ -261,7 +261,7 @@ function RotatableBrain({ activeRegion, setActiveRegion, regions }) {
 
   const showFront = Math.abs(rotY) < 55;
   const sideLabel =
-    rotY > 55 ? "Right Hemisphere" : rotY < -55 ? "Left Hemisphere" : null;
+    rotY > 55 ? "Left Hemisphere" : rotY < -55 ? "Right Hemisphere" : null;
   const vta = regions.find((r) => r.id === "vta");
   const nac = regions.find((r) => r.id === "nac");
   const pfc = regions.find((r) => r.id === "pfc");
